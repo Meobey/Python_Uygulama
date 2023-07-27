@@ -1,0 +1,1 @@
+bu uygulamada bilgisayar 1-999 arasında bir sayı tutar ve sizden bu sayıyı bulmanızı ister. Girdiğiniz değerlere göre aşağı-yukarı şeklinde sayıyı buldurur.

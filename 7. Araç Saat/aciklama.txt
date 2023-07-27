@@ -1,0 +1,1 @@
+Bir dolmuş hattında bütün araçlar rasgele şekilde programlanıyordu. Bu yüzden bazı araçlar sürekli erken işbaşı yaparken bazıları sürekli işe geç başlıyordu. Bu sorunu çözmek için random komutununda yardımıyla bu programı yazdım. Basit ancak işe yarama imkanı olan bir program.

@@ -1,0 +1,1 @@
+Basit bir işletme için kdv, kar payi gibi detaylarında düşünüldüğü bir proje.

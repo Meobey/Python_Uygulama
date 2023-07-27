@@ -1,0 +1,1 @@
+Bu projede robot maas olarak görünce garip gelebilir. Robotun çalışma süresine ve Çalıştığı bölüme göre yaktığı elektrik baz alınmıştır.
